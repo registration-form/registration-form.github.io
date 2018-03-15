@@ -1,11 +1,12 @@
 body {
     padding: 100px;
+    background: gainsboro;
 }
 .main {
     width: 60%;
     height: 50%;
     margin: auto;
-    border: 1px solid;
+    border: 1px solid white;
     border-radius: 20px;
     background: #001b36;
 }
