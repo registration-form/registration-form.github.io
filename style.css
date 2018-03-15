@@ -11,15 +11,17 @@ body {
 }
 .head {
     text-align: center;
-    font: bold 18px sans-serif;
+    font: bold 22px sans-serif;
     color: white;
     background: #00377a;
     border-radius: 20px 20px 0 0;
+    padding: 10px;
 }
 .descr {
     text-align: center;
     font: bold 16px sans-serif;
     color: #dfda93;
+    padding: 10px;
 }
 .left_col {
     float: left;
