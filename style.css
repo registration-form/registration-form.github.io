@@ -25,10 +25,10 @@ body {
 }
 .left_col {
     float: left;
-    width: 50%;
+    width: 45%;
 }
 .right_col {
-    width: 50%;
+    width: 45%;
 }
 p {
     color: white;
