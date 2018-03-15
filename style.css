@@ -1,6 +1,9 @@
 .main {
 	width: 70%;
+	height:100%;
 	margin: auto;
+	margin-right: 5px;
+	margin-left: 5px;
 	border-left: 1px solid;
 	border-right: 1px solid;
 	background: lightgrey;
