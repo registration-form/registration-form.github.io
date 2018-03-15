@@ -8,7 +8,8 @@
 .sub-main{
 	width: 100%;
 	height: 100%;
-	padding: 2px;
+	padding-left: 2px;
+	padding-right: 2px;
 }
 .top-menu {
 	height: 10%;
@@ -24,6 +25,7 @@
 .form{
 	height: 70%;
 	background: gainsboro;
+	padding: 10px;
 }
 footer {
 	height: 10%;
