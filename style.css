@@ -5,7 +5,18 @@
     padding-top: 200px;
     border: 1px solid;
     border-radius: 20px;
-    background: silver;
+    background: #001b36;
+}
+.head{
+    text-align: center;
+    font: bold 16px;
+    color: white;
+    background: #00377a;
+}
+.descr{
+    text-align: center;
+    font: bold 14px;
+    color: #dfda93;
 }
 .left_col {
     float: left;
