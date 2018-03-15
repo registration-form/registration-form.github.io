@@ -3,11 +3,11 @@
 	margin: auto;
 	border-left: 1px solid;
 	border-right: 1px solid;
-	background: silver;
+	background: lightgrey;
 }
 .top-menu {
-	height:50px;
+	height:100px;
 	padding:5px;
-	background:blue;
+	background:darkgrey;
 }
 
